@@ -1,5 +1,6 @@
 body {
   background-image: linear-linear-gradient(orange, white);
   background-color: whitesmoke;
-  color: #333; 
+  color: #333;
+  padding: 50px;
 }
